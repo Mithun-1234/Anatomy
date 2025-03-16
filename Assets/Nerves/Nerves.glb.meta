@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: f9ca986b8bfa7ad47b5d1c07e0fc0ad9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artery
+    second: {fileID: 2100000, guid: 7c96d6d4b435d044aa9d5eadaab895a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone-1
+    second: {fileID: 2100000, guid: 8c496a892253eca4abcc6de0044cbcc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bone-4
+    second: {fileID: 2100000, guid: e253ec22fe566e643869960d0640d12e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain
+    second: {fileID: 2100000, guid: a94b5c6439335694eb9dc76b8dc31e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brain-Inner
+    second: {fileID: 2100000, guid: 06444ed0e5aa6cd4c882049dfc80c2f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cartilage
+    second: {fileID: 2100000, guid: ab3dbf43e170c8f449d7f21ee22085c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cerebellum
+    second: {fileID: 2100000, guid: 8d65186ebd80dd64b84552c82d39bf6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornea
+    second: {fileID: 2100000, guid: 77bbe321c1bef5e47a6369b4a02d8b74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 60ceee96b73beca42ad77b272ac11bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fascia
+    second: {fileID: 2100000, guid: 13e3a56635bee0f4da79fd5e22d2381e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frontal lobe
+    second: {fileID: 2100000, guid: ffef077dbf4517e498ec371c773c8cbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gland
+    second: {fileID: 2100000, guid: 9bdb1c96a25714448873e780313c4903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Insula
+    second: {fileID: 2100000, guid: 04ed6ef44e1ef8d40a38278570d2d490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interlobar sulci
+    second: {fileID: 2100000, guid: b0b2efef856bfef47a0145baee56c863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iris
+    second: {fileID: 2100000, guid: 6afc4c701eda61e4b83d96513e5816f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LCR
+    second: {fileID: 2100000, guid: 019bf49a15887994e8e59178e79b61f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ligament
+    second: {fileID: 2100000, guid: ec2b12806a235894d879b661702fd02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Limbic lobe
+    second: {fileID: 2100000, guid: e12cb3d0030e0e64087c0fd2f9f6d48b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mucosa
+    second: {fileID: 2100000, guid: f440646d06bf60c48bfa03f7b3203245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve
+    second: {fileID: 2100000, guid: 3058ac8e4f077cf4394b3e700566e591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve-1
+    second: {fileID: 2100000, guid: 5c0904757b644fe42983c90574e8d4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve-2
+    second: {fileID: 2100000, guid: 96a5afd533b4adc4ea0ee316b3d97cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve-3
+    second: {fileID: 2100000, guid: 4c48f800b006af5409ff4dd98ba5c480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve-4
+    second: {fileID: 2100000, guid: 822cb0b881428c04b9d7eddfa455bdbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve-5
+    second: {fileID: 2100000, guid: 17c01b56409e6e94cbf84eae0a9ab535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve-6
+    second: {fileID: 2100000, guid: c5898c1739ee9d6459af5a38586f2e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nerve-8
+    second: {fileID: 2100000, guid: d0ac8d037d14ab54faf1b69bbc000958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nucleus
+    second: {fileID: 2100000, guid: 357d81f2be69fdb469535a431a68d593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nucleus (afferent fibers)
+    second: {fileID: 2100000, guid: d8eeaf3c222c63841bf39766b1a31dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nucleus (efferent fibers)
+    second: {fileID: 2100000, guid: 283a608767d22df4482f1eabb0adcec4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Occipital lobe
+    second: {fileID: 2100000, guid: 8e0756a6a3a8830418cb08dd7df14942, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

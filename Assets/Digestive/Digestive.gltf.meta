@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: d9a59cda73013ea449c4361ddabc5347
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi
+    second: {fileID: 2100000, guid: 8eb181a9c0c2e374ebdfcf70799a7da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-1
+    second: {fileID: 2100000, guid: 6e175c9570273be4ebe4bbd88ae31394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-2
+    second: {fileID: 2100000, guid: 7c3895b7e0fc21847ae02360336d2385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-3
+    second: {fileID: 2100000, guid: d65a06485c681904e805ba54eadb836a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-4
+    second: {fileID: 2100000, guid: f338928c3b0d1f448bf194086b581aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-5
+    second: {fileID: 2100000, guid: 3144611f7e1bd2c4d91bd25301d15e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-6
+    second: {fileID: 2100000, guid: 70332d7b204056f459a89c67c0c3baa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-7
+    second: {fileID: 2100000, guid: c28de1687858d2446820c66e0dd9f250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronchi-8
+    second: {fileID: 2100000, guid: 420588c9e361aa247a7cfbd90e75664e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cartilage
+    second: {fileID: 2100000, guid: ee6f3064712025d49b6f317f1203fcb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ductus
+    second: {fileID: 2100000, guid: 370f1b77afca02c42bdc356c0421ff17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fascia
+    second: {fileID: 2100000, guid: 60119d681cd290e48b193e6ef5a340ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gallbladder
+    second: {fileID: 2100000, guid: f3d316e36909c744b9b69752bf730cae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gland
+    second: {fileID: 2100000, guid: 265665de2a54fe4418c401ff41baf542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intestine
+    second: {fileID: 2100000, guid: de88f84a252243e49b949afafb18abd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ligament
+    second: {fileID: 2100000, guid: 7aeccd0357ff5ca4e86a739b9a4bf93c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-1
+    second: {fileID: 2100000, guid: 080ce4942aea3824fa8db946cdc12424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-2
+    second: {fileID: 2100000, guid: 2faf95107d8f5f8428aa52f2b5308f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-3
+    second: {fileID: 2100000, guid: 8b2d2bd6b11f2e246a37461b5767c005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-4
+    second: {fileID: 2100000, guid: fa5279d96d03f584fa68ba9f67ac3f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-5
+    second: {fileID: 2100000, guid: 007be0c4fc1e89741a2b32ed333fa087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-6
+    second: {fileID: 2100000, guid: 3777717211b4dc643be976f47942588d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-7
+    second: {fileID: 2100000, guid: 6ecf1ad1896c03245a8c98a6358de332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-8
+    second: {fileID: 2100000, guid: 09e4d5354c2980944a864dfd12ca5d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-9
+    second: {fileID: 2100000, guid: efbe64d799b342040aade775d2ed9810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lung-base
+    second: {fileID: 2100000, guid: 6675cd82f54f03f4b8df0493f39d8e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mucosa
+    second: {fileID: 2100000, guid: f09106643a4abb2419e142f27c07b3b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nucleus
+    second: {fileID: 2100000, guid: 7c60f84734761dd41b3c1cfc9e8b7841, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ
+    second: {fileID: 2100000, guid: 3957bd5ebed9fdc4b86fd368837fa02a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-1
+    second: {fileID: 2100000, guid: ca4f66ae3a8e19545949cdc30eb5d024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-2
+    second: {fileID: 2100000, guid: 0e0acbd4656f5fb468a9590a2d86b263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-3
+    second: {fileID: 2100000, guid: 0e376a815db7fec4db630730c3e0d916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-4
+    second: {fileID: 2100000, guid: 6a016c06929f44c45b81eced5865aa41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-5
+    second: {fileID: 2100000, guid: 03caae3e54c387f41aabd390a3ff6ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-6
+    second: {fileID: 2100000, guid: 2ddafb7a18724a649af4eeeda42585f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-7
+    second: {fileID: 2100000, guid: c2e554900d28411418271e6aa6b23f54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Organ-8
+    second: {fileID: 2100000, guid: 7bad37e3c433fb84181efaadd7c452af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Peritoneum
+    second: {fileID: 2100000, guid: 66e3b0a442d1ac1429914a8fd78a91c2, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aecd2106718f2444db3ca21345da2cef, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
